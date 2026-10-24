@@ -32,7 +32,7 @@
   <main>
     <h1>Campus Connect — Innovation Fest</h1>
     <p>Our college technology and innovation fest.</p>
-    <p>Date: 24 November 2026</p>
+    <p>Date: 17 April 2006</p>
     <button onclick="alert('Registration coming soon!')">
       Register Now
     </button>
